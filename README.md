@@ -24,7 +24,7 @@ My personal Neovim configuration built from [kickstart.nvim](https://github.com/
 1. Backup your existing Neovim configuration (if any)
 2. Clone this repository:
    ```bash
-   git clone https://github.com/<your-username>/nvim.git ~/.config/nvim
+   git clone https://github.com/ajaikumarvs/nvim.git ~/.config/nvim
    ```
 3. Start Neovim:
    ```bash
