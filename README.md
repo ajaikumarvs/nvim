@@ -1,6 +1,7 @@
 # nvim
 
 My personal Neovim configuration built from [kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim).
+(WIP 'cus I'm very lazy)
 
 ## Features
 
