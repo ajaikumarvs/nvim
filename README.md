@@ -2,7 +2,7 @@
 
 My personal Neovim configuration built from [kickstart.nvim](https://github.com/nvim-lua/kickstart.nvim).
 
-#Currently WIP
+### Currently WIP
 
 ## Features
 
